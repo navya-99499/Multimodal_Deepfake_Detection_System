@@ -1,0 +1,7 @@
+Text : https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text
+
+Image:https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images
+
+Audio:https://www.kaggle.com/datasets/adarshsingh0903/audio-deepfake-detection-dataset
+
+Video :https://www.kaggle.com/datasets/reubensuju/celeb-df-v2
