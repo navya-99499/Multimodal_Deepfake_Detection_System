@@ -160,6 +160,7 @@ jupyter notebook
 
 ## 📂 Project Structure
 
+```
 Multimodal_Deepfake_Detection_System/
 │
 ├── notebooks/
@@ -181,7 +182,7 @@ Multimodal_Deepfake_Detection_System/
 ├── requirements.txt
 ├── .gitignore
 └── dataset links.md
-
+```
 ---
 
 ## ⚙️ Hyperparameter Tuning
